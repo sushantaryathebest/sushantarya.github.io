@@ -1,5 +1,5 @@
-#languageCode = 'en-us'
-baseURL = "http://localhost:1313/"
+baseURL = "https://sushantarya.github.io/"
 title = "Sushant Arya"
 theme = "PaperMod"
-
+languageCode = 'en-us'
+publishDir = "docs"
