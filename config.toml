@@ -1,5 +1,8 @@
 baseURL = "https://sushantarya.github.io/"
 title = "Sushant Arya"
 theme = "PaperMod"
+<<<<<<< HEAD
 languageCode = 'en-us'
 publishDir = "docs"
+=======
+>>>>>>> d8a10dbdabc8d73fec7f98659d496e801e7ec06e
